@@ -1,0 +1,7 @@
+export OS_AUTH_URL=35.35.35.35
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=secret
+export OS_PROJECT_DOMAIN_NAME=cantTellYOu
+export OS_USERNAME=dude
+export OS_USER_DOMAIN_NAME=secretDomain
+export OS_PASSWORD=ski1
