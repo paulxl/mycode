@@ -26,7 +26,7 @@ def main():
 
     # display the graph
     # plt.show() # you can try this on a Python IDE with a GUI if you'd like
-    plt.savefig("/home/student/mycode/graphing/2018summary.png")
+    plt.savefig("/home/student/static/2018summary.png")
     
 if __name__ == "__main__":
     main()
